@@ -1,0 +1,2 @@
+# pokeScript
+ Pokedex usando Javascript
